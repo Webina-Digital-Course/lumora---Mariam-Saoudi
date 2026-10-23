@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 760" fill="none" role="img" aria-labelledby="fieldStudyTitle">
+  <title id="fieldStudyTitle">A field study of paths converging into one clear direction</title>
+  <rect width="600" height="760" fill="#F1EBDD"/>
+  <rect x="24" y="24" width="552" height="712" stroke="#283E32" stroke-opacity=".28"/>
+  <g stroke="#283E32" stroke-opacity=".12">
+    <path d="M24 148h552M24 612h552"/>
+    <path d="M88 24v712M512 24v712" stroke-dasharray="2 10"/>
+    <path d="M24 104h552M24 672h552"/>
+  </g>
+  <g fill="#283E32" font-family="ui-monospace, Consolas, monospace" font-size="10" letter-spacing="2.2">
+    <text x="48" y="72">LUMORA / FIELD STUDY 03</text>
+    <text x="48" y="708" opacity=".55">YOUR PRIORITIES, MADE VISIBLE</text>
+    <text x="552" y="708" text-anchor="end" opacity=".55">NOT A VERDICT</text>
+  </g>
+  <g stroke="#283E32" stroke-opacity=".1">
+    <path d="M72 202h456M72 286h456M72 370h456M72 454h456M72 538h456"/>
+  </g>
+  <g fill="#283E32" font-family="Georgia, 'Times New Roman', serif" font-size="19">
+    <text x="72" y="188">Option 01</text>
+    <text x="72" y="272">Option 02</text>
+    <text x="72" y="356">Option 03</text>
+  </g>
+  <g stroke-width="1.4">
+    <path d="M232 182h42c34 0 42 20 70 52" stroke="#283E32" stroke-opacity=".5"/>
+    <path d="M232 266h38c38 0 50 4 74 6" stroke="#283E32" stroke-opacity=".35"/>
+    <path d="M232 350h28c44 0 56-18 84-34" stroke="#B96549" stroke-opacity=".8"/>
+  </g>
+  <g>
+    <circle cx="232" cy="182" r="3.2" fill="#283E32"/>
+    <circle cx="232" cy="266" r="3.2" fill="#283E32" opacity=".5"/>
+    <circle cx="232" cy="350" r="3.2" fill="#B96549"/>
+  </g>
+  <path d="M344 174c22 20 34 40 34 64 0 18-9 31-22 44-15 15-24 28-24 45 0 23 16 40 44 55" stroke="#283E32" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M378 294h84" stroke="#283E32" stroke-width="1.8" stroke-linecap="round"/>
+  <circle cx="462" cy="294" r="7.5" fill="#B96549"/>
+  <circle cx="462" cy="294" r="15" stroke="#B96549" stroke-opacity=".38"/>
+  <g fill="#283E32" font-family="ui-monospace, Consolas, monospace" font-size="9" letter-spacing="1.7">
+    <text x="378" y="276">CONVERGENCE</text>
+    <text x="378" y="324">ONE CLEARER VIEW</text>
+    <text x="344" y="456">WEIGHTED ALIGNMENT</text>
+  </g>
+  <g>
+    <rect x="72" y="500" width="306" height="9" fill="#D8DFCB"/>
+    <rect x="72" y="500" width="228" height="9" fill="#283E32"/>
+    <rect x="72" y="530" width="306" height="9" fill="#D8DFCB"/>
+    <rect x="72" y="530" width="176" height="9" fill="#283E32" opacity=".72"/>
+    <rect x="72" y="560" width="306" height="9" fill="#D8DFCB"/>
+    <rect x="72" y="560" width="134" height="9" fill="#B96549" opacity=".86"/>
+    <circle cx="300" cy="504.5" r="3" fill="#B96549"/>
+  </g>
+  <g fill="#283E32" font-family="ui-monospace, Consolas, monospace" font-size="9" letter-spacing="1.2" opacity=".6">
+    <text x="390" y="508">74.2</text>
+    <text x="390" y="538">58.6</text>
+    <text x="390" y="568">43.1</text>
+  </g>
+  <path d="M344 512v48" stroke="#B96549" stroke-opacity=".45"/>
+  <path d="M338 512h12M338 560h12" stroke="#B96549"/>
+</svg>

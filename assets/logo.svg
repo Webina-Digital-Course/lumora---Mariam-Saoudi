@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" role="img" aria-labelledby="lumoraMarkTitle">
+  <title id="lumoraMarkTitle">Lumora</title>
+  <rect width="40" height="40" rx="9" fill="#283E32"/>
+  <path d="M10 12.5h3.4c3.7 0 5.4 2 7.1 4.6 1.7 2.6 3.4 3.4 6 3.4h3.1" fill="none" stroke="#F1EBDD" stroke-width="1.6" stroke-linecap="round"/>
+  <path d="M10 27.5h3.4c3.7 0 5.4-2 7.1-4.6 1.7-2.6 3.4-3.4 6-3.4h3.1" fill="none" stroke="#D8DFCB" stroke-width="1.6" stroke-linecap="round"/>
+  <path d="M27.5 8.5 21 20l6.5 11.5" fill="none" stroke="#F1EBDD" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="21" cy="20" r="2.6" fill="#B96549"/>
+</svg>
